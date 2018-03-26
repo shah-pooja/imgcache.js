@@ -1,5 +1,5 @@
 {
-  "name": "@chrisben/imgcache.js",
+  "name": "@shah-pooja/imgcache.js",
   "version": "2.0.0",
   "description": "JS library based on the File API to cache images for offline recovery (target: cordova/phonegap & chrome)",
   "main": "lib/imgcache.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/chrisben/imgcache.js.git"
+    "url": "git://github.com/shah-pooja/imgcache.js.git"
   },
   "scripts": {
     "test": "eslint lib/*.js",
@@ -25,9 +25,9 @@
   "author": "Christophe BENOIT",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/chrisben/imgcache.js/issues"
+    "url": "https://github.com/shah-pooja/imgcache.js/issues"
   },
-  "homepage": "https://github.com/chrisben/imgcache.js",
+  "homepage": "https://github.com/shah-pooja/imgcache.js",
   "devDependencies": {
     "eslint": "^3.2.2",
     "static-server": "^2.0.3"
